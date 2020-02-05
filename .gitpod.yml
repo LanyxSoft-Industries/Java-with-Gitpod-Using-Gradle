@@ -1,2 +1,4 @@
+tasks:
+  - init: chmod +x ./gradlew && chmod +x ./build.gradle
 image:
   file: .gitpod.Dockerfile
