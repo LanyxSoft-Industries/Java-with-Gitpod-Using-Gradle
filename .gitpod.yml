@@ -1,1 +1,2 @@
-#TODO Add gitpod yml config
+image:
+  file: .gitpod.Dockerfile
